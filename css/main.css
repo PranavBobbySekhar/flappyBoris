@@ -312,7 +312,7 @@ Screen - Game
    background-image: url('../assets/bird.png');
    background-image: url('../assets/plane.png');
    
-   -webkit-animation: animBird 300ms steps(4) infinite;
+   -webkit-animation: animBird 300ms steps(4);
    animation: animBird 300ms steps(4);
 }
 
