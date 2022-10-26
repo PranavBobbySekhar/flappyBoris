@@ -307,8 +307,8 @@ Screen - Game
 .bird
 {
    position: absolute;
-   width: 23px;
-   height: 24px;
+   width: 33px;
+   height: 35px;
    background-image: url('../assets/bird.png');
    background-image: url('../assets/plane.png');
    
